@@ -12,6 +12,10 @@ An intelligent chatbot built with Python and Streamlit, powered by Google's **Ge
 - 🎨 Clean, modern web interface built with Streamlit
 - 🔒 Secure API key handling using environment variables
 
+## 🚀 Live Demo
+
+Try it out here: [AI Voice Chatbot](https://ai-voice-chatbot-tsxqlxzdw8jqsrcna3kcty.streamlit.app/)
+
 ## 🛠️ Tech Stack
 
 - **Python 3**
